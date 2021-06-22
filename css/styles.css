@@ -1,0 +1,10 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(16,auto);
+    width:960px;
+}
+.grid-container>div{
+    background-color: black;
+    color:black;
+    
+}
